@@ -1,0 +1,1006 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2021-10-16T19:32:58.269Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Category: a",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2021-10-16T19:33:02.210Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Category: a1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2021-10-16T19:33:04.909Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Category: b",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2021-10-16T19:33:07.616Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Category: be",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2021-10-16T19:33:11.040Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Category: c1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2021-10-16T19:33:14.959Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Category: c1e",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2021-10-16T19:33:17.818Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Category: c",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2021-10-16T19:33:31.539Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Category: ce",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2021-10-16T19:33:34.689Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Category: d1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2021-10-16T19:33:38.020Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Category: d1e",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2021-10-16T19:33:41.497Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Category: d",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2021-10-16T19:33:44.619Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Category: de",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2021-10-19T13:31:02.294Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Driver: Yay Pony",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2021-10-19T13:31:02.353Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Driver: Woof Dog",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2021-10-19T13:31:02.399Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Driver: Meow Cat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2021-10-19T13:31:10.990Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Transport: 123 12",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2021-10-19T13:31:11.070Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Transport: hfghdfgh sdfsd",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2021-10-19T13:31:11.116Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Transport: asdasdasdasd sdasdasd",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2021-10-19T13:31:11.173Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Transport: Mersedes-Benz AP2311M1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 7,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 7,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 7,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 7,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add company",
+    "content_type": 8,
+    "codename": "add_company"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change company",
+    "content_type": 8,
+    "codename": "change_company"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete company",
+    "content_type": 8,
+    "codename": "delete_company"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view company",
+    "content_type": 8,
+    "codename": "view_company"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add driver",
+    "content_type": 9,
+    "codename": "add_driver"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change driver",
+    "content_type": 9,
+    "codename": "change_driver"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete driver",
+    "content_type": 9,
+    "codename": "delete_driver"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view driver",
+    "content_type": 9,
+    "codename": "view_driver"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add transport",
+    "content_type": 10,
+    "codename": "add_transport"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change transport",
+    "content_type": 10,
+    "codename": "change_transport"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete transport",
+    "content_type": 10,
+    "codename": "delete_transport"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view transport",
+    "content_type": 10,
+    "codename": "view_transport"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$fAb6CAXVaNm0km7jqA7niz$xCfZi3ASLKeBA1ziHRdt/0GkxM2IbI3NV/VFM7qZewU=",
+    "last_login": "2021-10-16T12:21:51.644Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "likespony@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-09-30T18:46:17.311Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "app",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "app",
+    "model": "company"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "app",
+    "model": "driver"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "app",
+    "model": "transport"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gg84hew8klgf3ly2iyojvnlry8fpwmd6",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBAoODSfc9AZphBqoYmpV0Z765NutDtf-_9l0iwrTVtnZc0kbgILU6_G0J-cNsB3aHdZpnnti4Tyl2RB-1ynImf18P9O6jQ67c2WIpXDorVuZRAMRBpH4NjRh3LWQNFbbJV6I1jCkPI1pAi4gGAMIr3BwaKOP4:1mW14k:6wZeU9f0rFR-0oh3YGYQkfqzENPm1dAxvuNF61LiI9c",
+    "expire_date": "2021-10-14T18:46:34.925Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zil0mb8uq2ffazbwy5j6oczab7ru1qu3",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBAoODSfc9AZphBqoYmpV0Z765NutDtf-_9l0iwrTVtnZc0kbgILU6_G0J-cNsB3aHdZpnnti4Tyl2RB-1ynImf18P9O6jQ67c2WIpXDorVuZRAMRBpH4NjRh3LWQNFbbJV6I1jCkPI1pAi4gGAMIr3BwaKOP4:1mbihD:0DngfwKoq_E7pkhXDH4uzHtIg_xuv-v9ZGaKojtkjpI",
+    "expire_date": "2021-10-30T12:21:51.690Z"
+  }
+},
+{
+  "model": "app.company",
+  "pk": 1,
+  "fields": {
+    "name": "FirstCompany"
+  }
+},
+{
+  "model": "app.company",
+  "pk": 2,
+  "fields": {
+    "name": "SecondCompany"
+  }
+},
+{
+  "model": "app.company",
+  "pk": 3,
+  "fields": {
+    "name": "ThirdCompany"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 1,
+  "fields": {
+    "category": "a"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 2,
+  "fields": {
+    "category": "a1"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 3,
+  "fields": {
+    "category": "b"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 4,
+  "fields": {
+    "category": "be"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 5,
+  "fields": {
+    "category": "c1"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 6,
+  "fields": {
+    "category": "c1e"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 7,
+  "fields": {
+    "category": "c"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 8,
+  "fields": {
+    "category": "ce"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 9,
+  "fields": {
+    "category": "d1"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 10,
+  "fields": {
+    "category": "d1e"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 11,
+  "fields": {
+    "category": "d"
+  }
+},
+{
+  "model": "app.category",
+  "pk": 12,
+  "fields": {
+    "category": "de"
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 5,
+  "fields": {
+    "first_name": "Meow",
+    "last_name": "Cat",
+    "company": 2,
+    "categories": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 6,
+  "fields": {
+    "first_name": "Meow",
+    "last_name": "Kitty",
+    "company": 2,
+    "categories": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 7,
+  "fields": {
+    "first_name": "Woof",
+    "last_name": "Dog",
+    "company": 1,
+    "categories": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 8,
+  "fields": {
+    "first_name": "Hee-haw",
+    "last_name": "Donkey",
+    "company": 1,
+    "categories": [
+      10,
+      11,
+      12
+    ]
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 9,
+  "fields": {
+    "first_name": "Cock-a-doodle-doo",
+    "last_name": "Rooster",
+    "company": 3,
+    "categories": [
+      3,
+      5,
+      7
+    ]
+  }
+},
+{
+  "model": "app.driver",
+  "pk": 10,
+  "fields": {
+    "first_name": "Oink",
+    "last_name": "Pig",
+    "company": 3,
+    "categories": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 6,
+  "fields": {
+    "number": "AS43234",
+    "model": "Blablacarrr",
+    "company": 3,
+    "required_category": 3,
+    "drivers": [
+      9
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 7,
+  "fields": {
+    "number": "UY54POI",
+    "model": "BeeBee",
+    "company": 1,
+    "required_category": 11,
+    "drivers": [
+      8
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 8,
+  "fields": {
+    "number": "PO76QWE",
+    "model": "YayCar",
+    "company": 1,
+    "required_category": 3,
+    "drivers": [
+      7
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 9,
+  "fields": {
+    "number": "UY567TRE",
+    "model": "BubbleCar",
+    "company": 1,
+    "required_category": 4,
+    "drivers": [
+      7
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 10,
+  "fields": {
+    "number": "GH56GHJ",
+    "model": "BoomCar",
+    "company": 2,
+    "required_category": 3,
+    "drivers": []
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 11,
+  "fields": {
+    "number": "DF456VBN",
+    "model": "SparkleCar",
+    "company": 2,
+    "required_category": 3,
+    "drivers": [
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "app.transport",
+  "pk": 12,
+  "fields": {
+    "number": "JH567LKJ",
+    "model": "BloomCar",
+    "company": 3,
+    "required_category": 8,
+    "drivers": []
+  }
+}
+]
